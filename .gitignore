@@ -1,0 +1,33 @@
+# macOS / Linux
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*~
+
+# Python (in case of future scripts)
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Node (in case of future code)
+node_modules/
+
+# Environment / secrets — NEVER commit these
+.env
+.env.local
+*.key
+*.pem
+secrets/
+
+# OS temp
+*.log
+*.tmp
+
+# Book PDF — copyright protected, do not commit
+*.pdf

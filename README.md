@@ -1,6 +1,6 @@
 # 📚 AI Engineering — Study Notes
 
-Personal study notes based on the book **"AI Engineering" by Chip Huyen** (~800 pages).
+Personal study notes based on the book **"AI Engineering" by Chip Huyen**.
 
 > Goal: Learn AI Engineering from scratch (beginner-friendly), organized topic by topic.
 

@@ -77,7 +77,7 @@ Each chapter folder now has three tiers:
 | `notes.md` | Beginner-friendly overview (start here) |
 | `deep-dive.md` | Math, mechanisms, patterns, diagrams |
 | `questions.md` | Open questions you're wrestling with |
-| `code/` | Runnable mini-projects |
+| `code/` | Runnable mini-projects on the topics |
 
 Recommended flow per chapter:
 1. Read `notes.md` (30 min)

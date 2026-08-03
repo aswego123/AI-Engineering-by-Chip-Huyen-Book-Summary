@@ -63,3 +63,25 @@ ai-engineering/
 - **New to AI?** Start with [00-book-overview/summary.md](00-book-overview/summary.md)
 - **Confused by a term?** Check [glossary.md](glossary.md)
 - **Want more resources?** See [resources/links.md](resources/links.md)
+- **Papers to read?** See [resources/papers.md](resources/papers.md)
+- **Track your learning:** [progress.md](progress.md)
+
+---
+
+## 🔬 Going Deeper
+
+Each chapter folder now has three tiers:
+
+| File | Purpose |
+|---|---|
+| `notes.md` | Beginner-friendly overview (start here) |
+| `deep-dive.md` | Math, mechanisms, patterns, diagrams |
+| `questions.md` | Open questions you're wrestling with |
+| `code/` | Runnable mini-projects |
+
+Recommended flow per chapter:
+1. Read `notes.md` (30 min)
+2. Read `deep-dive.md` (60 min)
+3. Pick **one** mini-project from `code/README.md` and ship it
+4. Read **one** paper from `resources/papers.md`
+5. Check off items in [progress.md](progress.md)
